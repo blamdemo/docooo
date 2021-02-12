@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "jkljkl"
+  description: "jkl"
+  annotations:
+    github.com/project-slug: blamdemo/docooo
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/docooo
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "k"
